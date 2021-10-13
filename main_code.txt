@@ -1,1 +1,8 @@
-this is the original code base
+this is the original code base.
+
+
+
+
+
+The first unit of esp gives an introduction to version control systems.
+
